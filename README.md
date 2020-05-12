@@ -1,5 +1,16 @@
 # Adaptive Traffic Signal Control System
 
+
+![Stars](https://img.shields.io/github/stars/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg?style=social)
+![Forks](https://img.shields.io/github/forks/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)
+![Language](https://img.shields.io/github/languages/top/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)
+[![GitHub](https://img.shields.io/github/license/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)](https://choosealicense.com/licenses/mit)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](https://vedantkhairnar.ml)
+[![HitCount](http://hits.dwyl.io/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)](http://hits.dwyl.io/VedantKhairnar/Wingardium-Leviosa)
+![Issues](https://img.shields.io/github/issues/VedantKhairnar/Adaptive-Traffic-Signal-Control-System)
+![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
+
 ## 1. Abstract :
 
 Traffic congestion is becoming a serious problem with a large number of cars on the roads. Vehicles queue length waiting to be processed at the intersection is rising sharply with the increase of the traffic flow, and the traditional traffic lights cannot efficiently schedule it. 
