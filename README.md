@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/github/languages/top/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)
 [![GitHub](https://img.shields.io/github/license/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)](https://choosealicense.com/licenses/mit)
 [![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](https://vedantkhairnar.ml)
-[![HitCount](http://hits.dwyl.io/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)](http://hits.dwyl.io/VedantKhairnar/Wingardium-Leviosa)
+[![HitCount](http://hits.dwyl.io/VedantKhairnar/Adaptive-Traffic-Signal-Control-System.svg)](http://hits.dwyl.io/VedantKhairnar/Adaptive-Traffic-Signal-Control-System)
 ![Issues](https://img.shields.io/github/issues/VedantKhairnar/Adaptive-Traffic-Signal-Control-System)
 ![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
 
