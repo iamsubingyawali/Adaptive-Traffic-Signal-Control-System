@@ -8,6 +8,7 @@ import dlib
 import tensorflow.compat.v1 as tf
 import os
 import threading
+import sys
 
 def countVehicles(param):
 	# param -> path of the video
@@ -217,16 +218,14 @@ def countVehicles(param):
 	print("Exited")
 
 	"""
-	function which will run our code
+	function which will run our code	
 
 	will write the number of veicles in the list provided
 	"""
 
 if __name__ == "__main__":
-
-	
-
-	countVehicles("/videos/test.mp4")
-
-	# Logic for setting the time for each signal
+	if len(sys.argv) != 2:
+		raise ValueError('Please provide the video path or name.')
+	video_name = sys.argv[1]
+	countVehicles(video_name)
 	
